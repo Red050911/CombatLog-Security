@@ -1,0 +1,7 @@
+name: CombatLog Security
+version: '${project.version}'
+main: io.github.red050911.plugin.combatlogsecurity.CombatLogSecurity
+api-version: 1.18
+authors: [ Red050911 ]
+description: Stop those annoying combat loggers!
+website: https://github.com/Red050911/CombatLog-Security
